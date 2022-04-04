@@ -14,8 +14,41 @@ body img {
 }
 
 li {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Brush Script MT', cursive;
     font-size:larger;
     background-color: rgb(255, 166, 0);
+}
+
+h2.homepg {
+    background-color: azure;
+}
+
+.header1 {
+    color: rgb(255, 0, 0);
+
+}
+
+.header2 {
+    color: rgb(255, 123, 0);
+
+}
+
+.header3 {
+    color:rgb(0, 171, 31)
+}
+
+.header4 {
+    color:mediumblue
+
+}
+
+.header5 {
+    color: blueviolet;
+
+}
+#about {
+    font-size: larger;
+    font-weight: 300;
+    font-style: italic;
 }
 

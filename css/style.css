@@ -13,3 +13,9 @@ body img {
     align-items: center ;
 }
 
+li {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:larger;
+    background-color: rgb(255, 166, 0);
+}
+

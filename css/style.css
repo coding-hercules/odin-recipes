@@ -22,9 +22,12 @@ body img {
 li {
     font-family: 'Brush Script MT', cursive;
     font-size:larger;
-    background-color: rgb(255, 166, 0);
-    padding: 5px;
+        padding: 5px;
     margin: 5px;
+}
+
+.homepg li {
+    background-color: rgb(255, 166, 0);
 }
 
 h2.homepg {

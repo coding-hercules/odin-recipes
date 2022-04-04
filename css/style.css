@@ -18,10 +18,13 @@ li {
     font-family: 'Brush Script MT', cursive;
     font-size:larger;
     background-color: rgb(255, 166, 0);
+    padding: 5px;
+    margin: 5px;
 }
 
 h2.homepg {
     background-color: azure;
+    padding: 10px;
 }
 
 .header1 {

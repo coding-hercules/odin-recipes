@@ -2,6 +2,11 @@ body {
     background-color: rgb(242, 208, 166);
 }   
 
+p {
+    padding-left: 20px;
+    font-size: 18px
+}
+
 body h1 {
     text-align: center;
     font-size: 3em;
@@ -56,3 +61,12 @@ h2.homepg {
     font-style: italic;
 }
 
+.webpg {
+    padding: 10px;
+}
+
+h2.desc,
+h2.ingrdt,
+h2.steps {
+    background-color: gainsboro;
+}
